@@ -1,0 +1,8 @@
+.created_by {
+    background: #dc0000;
+    color: #fff;
+    padding: 3px 5px;
+    font-family: Arial;
+    font-weight: bold;
+}
+.created_by:hover{text-decoration:none;color:#fff;}

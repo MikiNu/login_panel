@@ -1,0 +1,276 @@
+{"firstCharters":[
+    {
+        "stateMod":"new",
+        "id": "1",
+        "linK": "/tech/",
+        "imageCharter": "tech.jpg",
+        "nameCharter": "IT оборудование"
+    }, {
+        "stateMod":"new",
+        "id": "2",
+        "linK": "/equipment/",
+        "imageCharter": "service.jpg",
+        "nameCharter": "Техника"
+    }, {
+        "stateMod":"new",
+        "id": "3",
+        "linK": "/gsm/",
+        "imageCharter": "gsm.jpg",
+        "nameCharter": "Учет ГСМ"
+    }, {
+        "stateMod":"old",
+        "id": "4",
+        "linK": "/small_mechanization/",
+        "imageCharter": "small_mechanization.jpg",
+        "nameCharter": "Малая механизация"
+    }, {
+        "stateMod":"new",
+        "id": "5",
+        "linK": "/mercenary_equipment/",
+        "imageCharter": "mercenary_equipment.png",
+        "nameCharter": "Наемная техника"
+    }, {
+        "stateMod":"new",
+        "id": "6",
+        "linK": "/contracts_register/",
+        "imageCharter": "registry_icon.jpg",
+        "nameCharter": "Реестр договоров"
+    }, {
+        "stateMod":"new",
+        "id": "7",
+        "linK": "/contractors/",
+        "imageCharter": "icon_contractors.jpg",
+        "nameCharter": "Контрагенты"
+    }, {
+        "stateMod":"new",
+        "id": "8",
+        "linK": "/snab/",
+        "imageCharter": "icon_supply.jpg",
+        "nameCharter": "Заявки"
+    }, {
+        "stateMod":"new",
+        "id": "9",
+        "linK": "/invoices/",
+        "imageCharter": "icon_invoices.jpg",
+        "nameCharter": "Счета"
+    }, {
+        "stateMod":"new",
+        "id": "10",
+        "linK": "/paid/",
+        "imageCharter": "month_pay.jpg",
+        "nameCharter": "Обязательные платежи"
+    }, {
+        "stateMod":"new",
+        "id": "11",
+        "linK": "/registry_paid/",
+        "imageCharter": "registry_paid.jpg",
+        "nameCharter": "Реестр платежей"
+    }, {
+        "stateMod":"new",
+        "id": "12",
+        "linK": "/logistics/",
+        "imageCharter": "logistic_icon.jpg",
+        "nameCharter": "Логистика"
+    }, {
+        "stateMod":"new",
+        "id": "13",
+        "linK": "/contracts/",
+        "imageCharter": "contract.jpg",
+        "nameCharter": "Договоры"
+    }, {
+        "stateMod":"new",
+        "id": "14",
+        "linK": "/users/",
+        "imageCharter": "icon_users.jpg",
+        "nameCharter": "Пользователи"
+    }, {
+        "stateMod":"new",
+        "id": "15",
+        "linK": "/staff/",
+        "imageCharter": "icon_staff.jpg",
+        "nameCharter": "Кадры"
+    }, {
+        "stateMod":"new",
+        "id": "16",
+        "linK": "/staff_links/",
+        "imageCharter": "staff_links.jpg",
+        "nameCharter": "Звенья"
+    }, {
+        "stateMod":"new",
+        "id": "17",
+        "linK": "/kpi/",
+        "imageCharter": "kpi.jpg",
+        "nameCharter": "КБС"
+    },{
+        "stateMod":"new",
+        "id": "18",
+        "linK": "/shedule/",
+        "imageCharter": "shedule.jpg",
+        "nameCharter": "Графики работ"
+    },{
+        "stateMod":"new",
+        "id": "19",
+        "linK": "/orders/",
+        "imageCharter": "order2.jpg",
+        "nameCharter": "Разнарядки"
+    },{
+        "stateMod":"new",
+        "id": "20",
+        "linK": "/hr/",
+        "imageCharter": "hr.jpg",
+        "nameCharter": "Рекрутинг"
+    },{
+        "stateMod":"new",
+        "id": "21",
+        "linK": "/news/",
+        "imageCharter": "news.jpg",
+        "nameCharter": "Новости"
+    },{
+        "stateMod":"new",
+        "id": "22",
+        "linK": "/maps/",
+        "imageCharter": "maps.jpg",
+        "nameCharter": "Карты"
+    },{
+        "stateMod":"new",
+        "id": "23",
+        "linK": "/contacts/",
+        "imageCharter": "contacts.jpg",
+        "nameCharter": "Контакты"
+    },{
+        "stateMod":"new",
+        "id": "24",
+        "linK": "/trash/",
+        "imageCharter": "trash.png",
+        "nameCharter": "Нераспознанные файлы"
+    },{
+        "stateMod":"new",
+        "id": "25",
+        "linK": "/equipment_report/",
+        "imageCharter": "equipment_report.jpg",
+        "nameCharter": "Сводки техники"
+    },{
+        "stateMod":"new",
+        "id": "26",
+        "linK": "/helpers/rates",
+        "imageCharter": "helpers/rates.jpg",
+        "nameCharter": "Рейтинги"
+    },{
+        "stateMod":"new",
+        "id": "27",
+        "linK": "/helpers",
+        "imageCharter": "helpers.jpg",
+        "nameCharter": "Справочники"
+    },{
+        "stateMod":"new",
+        "id": "28",
+        "linK": "/protocol_meetings/",
+        "imageCharter": "protocol_meetings.png",
+        "nameCharter": "Протоколы совещаний"
+    },{
+        "stateMod":"new",
+        "id": "29",
+        "linK": "/security/",
+        "imageCharter": "security.jpg",
+        "nameCharter": "Безопасность"
+    }
+],
+"developmentCharters":[{
+    "stateMod":"new",
+    "id": "30",
+    "linK": "/",
+    "imageCharter": "instructions.jpg",
+    "nameCharter": "Инструкции по порталу",
+    "status":"hidden",
+    "pstCompletion": "90"
+},{
+    "stateMod":"new",
+    "id": "31",
+    "linK": "/",
+    "imageCharter": "storage.png",
+    "nameCharter": "Склад",
+    "status":"hidden",
+    "pstCompletion": "5"
+},{
+    "stateMod":"new",
+    "id": "32",
+    "linK": "/",
+    "imageCharter": "organization_documents.jpg",
+    "nameCharter": "Документы"
+}],
+"secondCharters":[
+    {
+        "stateMod":"new",
+        "id": "33",
+        "linK": "/",
+        "imageCharter": "",
+        "nameCharter": "Домой"
+    }, {
+        "stateMod":"new",
+        "id": "34",
+        "linK": "/helpers/type_eq_work",
+        "imageCharter": "helpers/type_eq_work.jpg",
+        "nameCharter": "Виды работ техники"
+    }, {
+        "stateMod":"new",
+        "id": "35",
+        "linK": "/helpers/work",
+        "imageCharter": "helpers/works.jpg",
+        "nameCharter": "Виды работ"
+    }, {
+        "stateMod":"new",
+        "id": "36",
+        "linK": "/helpers/locations",
+        "imageCharter": "helpers/locations.jpg",
+        "nameCharter": "Участки(области)"
+    }, {
+        "stateMod":"new",
+        "id": "37",
+        "linK": "/helpers/equipment_organization_route",
+        "imageCharter": "helpers/equipment_organization_route.jpg",
+        "nameCharter": "Маршруты"
+    }, {
+        "stateMod":"new",
+        "id": "38",
+        "linK": "/helpers/providers",
+        "imageCharter": "helpers/providers.jpg",
+        "nameCharter": "Поставщики"
+    }, {
+        "stateMod":"new",
+        "id": "39",
+        "linK": "/helpers/nomenclature",
+        "imageCharter": "helpers/nomenclature.jpg",
+        "nameCharter": "Номенклатура"
+    }, {
+        "stateMod":"new",
+        "id": "40",
+        "linK": "/helpers/staff_need_posts",
+        "imageCharter": "helpers/staff_need_posts.jpg",
+        "nameCharter": "Потребность в кадрах"
+    }, {
+        "stateMod":"new",
+        "id": "41",
+        "linK": "/helpers/codes",
+        "imageCharter": "helpers/codes.jpg",
+        "nameCharter": "Объекты затрат"
+    }, {
+        "stateMod":"new",
+        "id": "42",
+        "linK": "/helpers/expenditure",
+        "imageCharter": "helpers/expenditure.jpg",
+        "nameCharter": "Статьи расходов"
+    }, {
+        "stateMod":"new",
+        "id": "43",
+        "linK": "/helpers/products",
+        "imageCharter": "helpers/products.png",
+        "nameCharter": "Справочник товаров"
+    }, {
+        "stateMod":"new",
+        "id": "44",
+        "linK": "/helpers/mercenary_equipment_registry",
+        "imageCharter": "helpers/mercenary_equipment_registry.jpg",
+        "nameCharter": "База наемной техники"
+    }
+]
+}
